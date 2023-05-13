@@ -3,7 +3,7 @@ import speech_recognition as sr
 import webbrowser
 import datetime
 import  pyjokes
-
+# my name is farry
 def sptext():
     recognizer = sr.Recognizer()
     with sr.Microphone() as source:
